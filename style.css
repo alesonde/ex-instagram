@@ -2,4 +2,30 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+
 }
+header{
+ background-color: black;
+    
+}   
+h1{
+  color: aliceblue;
+    padding: 55px;
+ 
+}a{
+    color: aliceblue;
+    display: flex;
+    justify-items: flex-end;
+    padding: 18px;
+}i{
+    display: flex;
+    font-weight: 33px;
+}
+
+   
+
+
+
+   
+
+

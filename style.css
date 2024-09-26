@@ -3,23 +3,39 @@
     margin: 0;
     box-sizing: border-box;
 
+}body{
+    display: flex;
+     background-color: black
 }
 header{
  background-color: black;
     
 }   
 h1{
-  color: aliceblue;
+  color: rgb(245, 247, 241);
     padding: 55px;
- 
+    display: flex;
+    justify-items: baseline;
 }a{
     color: aliceblue;
     display: flex;
     justify-items: flex-end;
-    padding: 18px;
-}i{
-    display: flex;
-    font-weight: 33px;
+    padding: 19px;
+}.box{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+   display: inline-flex;
+
+}.pama{
+    color: aliceblue;
+
+}.flax{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 77%;
 }
 
    
